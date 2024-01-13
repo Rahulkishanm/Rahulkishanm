@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahulkishanm
 - 👀 I’m a full stack developer (React, React Native, Java, NodeJs). 
-- 🌱 I’m currently building at PayPal. 
+- 🌱 I’m currently building at SALESFORCE. 
 - 📫 How to reach me rahulkishanv1@gmail.com
 
 <!---
