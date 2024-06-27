@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahulkishanm
-- 👀 I’m a full stack developer (React, React Native, Java, NodeJs). 
+- 👀 I’m a full stack developer (React, React Native, Java, NodeJs , ML, DEvops, Backend). 
 - 📫 How to reach me rahulkishanv1@gmail.com
 
 <!---
